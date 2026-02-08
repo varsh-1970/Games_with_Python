@@ -3,6 +3,9 @@
 A graphical Tic Tac Toe game built using **Python** and **Tkinter**.  
 The game supports two players, keeps track of scores, and allows replaying multiple rounds.
 
+<img width="966" height="905" alt="image" src="https://github.com/user-attachments/assets/86bf6817-a6c1-417b-90bd-4bdc0a766c29" />
+
+
 ---
 
 ## 🎮 Features
